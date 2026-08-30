@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dulce-pasi-n-lencer-a-fina.onrender.com/sitemap.xml

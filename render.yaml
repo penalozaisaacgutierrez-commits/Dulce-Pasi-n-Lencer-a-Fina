@@ -1,0 +1,6 @@
+# Despliegue estático en Render — Dulce Pasión Lencería Fina
+services:
+  - type: web
+    name: dulce-pasion-lenceria-fina
+    runtime: static
+    staticPublishPath: .

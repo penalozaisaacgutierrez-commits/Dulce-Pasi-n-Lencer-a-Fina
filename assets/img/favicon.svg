@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dulce Pasión">
+  <rect width="64" height="64" rx="10" fill="#4a1024"/>
+  <path d="M32 14c6 8 16 10 16 20 0 8.8-7.2 16-16 16S16 42.8 16 34c0-10 10-12 16-20z" fill="#e11d74"/>
+  <path d="M32 22c3.4 4.6 9 5.8 9 11.2 0 5-4 9-9 9s-9-4-9-9c0-5.4 5.6-6.6 9-11.2z" fill="#c9a36a"/>
+  <text x="32" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#fff">DP</text>
+</svg>

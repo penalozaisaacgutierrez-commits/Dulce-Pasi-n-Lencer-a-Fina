@@ -1,0 +1,3 @@
+# Google AdSense — Dulce Pasión Lencería Fina
+# Reemplace el publisher por el ca-pub definitivo de su cuenta.
+google.com, pub-8235697411829046, DIRECT, f08c47fec0942fa0
